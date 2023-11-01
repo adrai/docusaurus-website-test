@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Meine Seite",
+    "description": "Der Titel in der Navigationsleiste"
+  },
+  "logo.alt": {
+    "message": "Logo meiner Website",
+    "description": "Der Alternativtext des Navbar-Logos"
+  },
+  "item.label.Tutorial": {
+    "message": "Lernprogramm",
+    "description": "Navigationsleistenelement mit der Bezeichnung „Tutorial“."
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar-Element mit der Bezeichnung Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar-Element mit der Bezeichnung GitHub"
+  }
+}

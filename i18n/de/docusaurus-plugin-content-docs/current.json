@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Nächste",
+    "description": "Die Bezeichnung für die aktuelle Version"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial – Grundlagen",
+    "description": "Die Bezeichnung für die Kategorie „Tutorial – Grundlagen“ in der Seitenleiste „TutorialSidebar“."
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 Minuten, um die wichtigsten Docusaurus-Konzepte zu lernen.",
+    "description": "Die generierte Indexseitenbeschreibung für die Kategorie Tutorial – Grundlagen in der Seitenleiste TutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "Die Bezeichnung für die Kategorie Tutorial – Extras in der Seitenleiste TutorialSidebar"
+  }
+}

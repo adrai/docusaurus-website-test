@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumente",
+    "description": "Der Titel der Fußzeile verknüpft die Spalte mit title=Docs in der Fußzeile"
+  },
+  "link.title.Community": {
+    "message": "Gemeinschaft",
+    "description": "Der Titel der Fußzeilen-Links-Spalte mit title=Community in der Fußzeile"
+  },
+  "link.title.More": {
+    "message": "Mehr",
+    "description": "Der Titel der Fußzeile verknüpft die Spalte mit title=More in der Fußzeile"
+  },
+  "link.item.label.Tutorial": {
+    "message": "Lernprogramm",
+    "description": "Die Beschriftung des Fußzeilen-Links mit label=Tutorial, der auf /docs/intro verweist"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Paketüberfluss",
+    "description": "Die Beschriftung des Fußzeilenlinks mit label=Stack Overflow, der auf https://stackoverflow.com/questions/tagged/docusaurus verweist"
+  },
+  "link.item.label.Discord": {
+    "message": "Zwietracht",
+    "description": "Die Beschriftung des Fußzeilen-Links mit label=Discord, der auf https://discordapp.com/invite/docusaurus verweist"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "Die Beschriftung des Fußzeilenlinks mit label=Twitter, der auf https://twitter.com/docusaurus verweist"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "Die Beschriftung des Fußzeilenlinks mit label=Blog, der auf /blog verweist"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Die Beschriftung des Fußzeilen-Links mit label=GitHub, der auf https://github.com/facebook/docusaurus verweist"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 My Project, Inc. Gebaut mit Docusaurus.",
+    "description": "Das Urheberrecht der Fußzeile"
+  }
+}
